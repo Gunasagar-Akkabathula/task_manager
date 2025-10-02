@@ -2,7 +2,7 @@
   "name": "task-manager",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Gunasagar-Akkabathula.github.io/task_manager/",
+  "homepage": "https://gunasagar-akkabathula.github.io/task_manager",
   "dependencies": {
     "16": "^0.0.2",
     "react": "^16.12.0",
